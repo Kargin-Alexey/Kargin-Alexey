@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kargin-Alexey
 - 👀 I’m interested in Data Science and ML.
-- 🌱 I’m currently learning in UrFU. 
 - 📫 How to reach me:
     - [@toroid_al](https://t.me/toroid_al) telegram
     - kargin.alexey1502@gmail.com
